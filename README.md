@@ -1,2 +1,3 @@
 # serverless-example-api
-Simple .NET Core API using Serverless
+
+Check how to run the project in: https://www.linkedin.com/pulse/serverless-net-core-api-edison-harada/
